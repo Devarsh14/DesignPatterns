@@ -1,13 +1,20 @@
 ﻿using System;
 
 namespace DesignPatterns
-{
-    class Program
+{  
+    //https://refactoring.guru/design-patterns/factory-method
+    // NAME OF EXTENTION IS SUPERCHARGER.
+    // BUG: 
+  // Creational patterns allows and provides ways to create objects in  application
+    public class Desing
     {
-        
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Making sure this is main class as.");
         }
     }
+    
 }
+
+
+

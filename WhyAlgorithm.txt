@@ -1,0 +1,17 @@
+Why Algorithm.
+1. Gives an idea of running time of program.
+2. Helps us to decide on hardware requirments
+3. Breaking the problem and distribute on multiple devices
+4. What is feasible vs what is impossible
+5. Improvement of current program 
+6. Allows us to keep improve. 
+
+
+Why Data structure :
+1. 
+
+
+Correctness of an algorithm
+1. statement to be proven 
+2. List all assumptions
+3. Chain of reasoning from assuptions to statement.
