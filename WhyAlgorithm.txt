@@ -15,3 +15,30 @@ Correctness of an algorithm
 1. statement to be proven 
 2. List all assumptions
 3. Chain of reasoning from assuptions to statement.
+
+Incorrectness of an Algorithm. 
+Step 1 : Give a set of data for which the algorithm does not work 
+Step 2 : Usually consider small data sets 
+step 3 : Especially consider borderline cases. 
+
+Analysis of algorithms 
+Two types of consideration 
+1. How much time it will take to run algorithm
+2. HOw much space it will take to run algorithm
+
+1. Space complexity and 2. Time complexity
+
+Linear Growth of time
+Quadratic growth time
+
+Types of time time complexity
+3-types
+1. worst case
+2. best case
+3. average case
+
+RAM model of computation 
+1. Assume we have infintie memory
+2. Each operation (+-*/) takes unit time of ONe.
+3. For each memory access, unit time is consumed
+4. Data may be accessed from Ram or disk, it is assumed that data is in the RAM.
