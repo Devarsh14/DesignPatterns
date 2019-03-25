@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Algorithms\HacherRank\" />
     <Folder Include="DesignPatterns\" />
-    <Folder Include="CSharpFeatures\" />
   </ItemGroup>
 
 </Project>

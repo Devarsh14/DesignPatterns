@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DesignPatterns.CSharpFeatures;
+using DesignPatterns.ProblemSolving;
+using System;
 
 namespace DesignPatterns
 {  
@@ -10,7 +12,16 @@ namespace DesignPatterns
     {
         public static void Main()
         {
-            Console.WriteLine("Making sure this is main class as.");
+            //HashTables hashTables = new HashTables();
+            //hashTables.HashTableDemo();
+
+            int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), 
+                arrTemp => Convert.ToInt32(arrTemp));
+            // Min max sum 
+            MiniMaxSum miniMaxSum = new MiniMaxSum();
+            miniMaxSum.miniMaxSum(arr);
+            Console.Read();
+
         }
     }
     
