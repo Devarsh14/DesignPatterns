@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Algorithms\HacherRank\" />
     <Folder Include="DesignPatterns\" />
   </ItemGroup>
 

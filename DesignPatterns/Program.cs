@@ -30,7 +30,7 @@ namespace DesignPatterns
                     // Min max sum 
                     arr = ArrayInput();  
                     MiniMaxSum miniMaxSum = new MiniMaxSum();
-                    miniMaxSum.miniMaxSum(arr);
+                    miniMaxSum.MiniMaxsum(arr);
                     Console.Read();
                     break;
                 case 1:
