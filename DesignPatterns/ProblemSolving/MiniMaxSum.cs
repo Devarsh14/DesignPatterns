@@ -8,7 +8,7 @@ namespace DesignPatterns.ProblemSolving
 {
     public class MiniMaxSum
     {   // Find minimum sum of givan array and maxium sum of givan array element of only 4 out of 5.
-        // https://www.hackerrank.com/challenges/mini-max-sum/problem solved.
+        //challenges/mini-max-sum/problem solved.
         // Complete the miniMaxSum function below.
         public  void miniMaxSum(int[] arr)
         {
