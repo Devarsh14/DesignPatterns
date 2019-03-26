@@ -14,8 +14,12 @@
     {
         public static void Main()
         {
-            MultiDimentionalArray multiDimentionalArray = new MultiDimentionalArray();
-            multiDimentionalArray.Array2D();
+            //MultiDimentionalArray multiDimentionalArray = new MultiDimentionalArray();
+            //multiDimentionalArray.Array2D();
+
+            JaggedArrays jaggedArrays = new JaggedArrays();
+            jaggedArrays.JaggedArrayExample2D();
+
 
             SwitchConsoleStatements();
 
@@ -62,6 +66,7 @@
 
         private static void SwitchConsoleStatements()
         {
+            Console.WriteLine();
             Console.WriteLine("Select input for the execution");
             Console.WriteLine("0 for MinMax value");
             Console.WriteLine("1 for BirthDay candles");

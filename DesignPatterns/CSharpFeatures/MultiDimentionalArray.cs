@@ -32,8 +32,6 @@ namespace DesignPatterns.CSharpFeatures
                     Console.Write(array2dexample[i, j] + " ");
                 }
             }
-
-
         }
     }
 }
