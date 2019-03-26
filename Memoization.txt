@@ -1,0 +1,7 @@
+What is a memoization ::
+It is a technique which allows you to keep memo of intermediate resultes so that you can utilise those to avoid repeatative calculations.
+
+Mostly to avoid recursive issue we can use memoizations.
+It will help to solve problem of back tracking. 
+
+To overcome the problem of backtrackig we can use memoization.

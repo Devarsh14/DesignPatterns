@@ -14,6 +14,9 @@
     {
         public static void Main()
         {
+            MultiDimentionalArray multiDimentionalArray = new MultiDimentionalArray();
+            multiDimentionalArray.Array2D();
+
             SwitchConsoleStatements();
 
             int[] arr;
