@@ -57,6 +57,10 @@
                     Console.WriteLine(convertedTime);
                     Console.ReadLine();
                     break;
+                case 3:
+                    // Enter details for string interpolatio in future.
+
+                    break;
                 default:
                     Console.WriteLine("Invalid input");
                     Console.ReadLine();
@@ -71,6 +75,7 @@
             Console.WriteLine("0 for MinMax value");
             Console.WriteLine("1 for BirthDay candles");
             Console.WriteLine("2 for DateTimeConversion");
+            Console.WriteLine("3 for StringInterpolation using $");
         }
 
         private static int[] ArrayInput()
