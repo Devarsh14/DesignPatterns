@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{433853BD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{F1A4952E-02F6-4129-8558-02A52E3667B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTest", "QuickTest\QuickTest.csproj", "{1DC5D935-FE1F-4762-B481-0D48C2AF10F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F1A4952E-02F6-4129-8558-02A52E3667B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1A4952E-02F6-4129-8558-02A52E3667B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1A4952E-02F6-4129-8558-02A52E3667B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC5D935-FE1F-4762-B481-0D48C2AF10F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC5D935-FE1F-4762-B481-0D48C2AF10F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC5D935-FE1F-4762-B481-0D48C2AF10F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC5D935-FE1F-4762-B481-0D48C2AF10F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
