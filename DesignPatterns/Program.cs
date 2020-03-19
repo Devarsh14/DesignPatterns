@@ -14,6 +14,8 @@
     {
         public static void Main()
         {
+            LargestPrimeFactor largestPrimeFactor = new LargestPrimeFactor();
+            //largestPrimeFactor.lar
             //MultiDimentionalArray multiDimentionalArray = new MultiDimentionalArray();
             //multiDimentionalArray.Array2D();
 
