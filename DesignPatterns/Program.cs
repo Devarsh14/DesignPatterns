@@ -1,6 +1,7 @@
 ﻿namespace DesignPatterns
 {
     using System;
+    using DesignPatterns.Algorithms.Challenge;
     using DesignPatterns.Algorithms.HacherRank;
     using DesignPatterns.CSharpFeatures;
     using DesignPatterns.ProblemSolving;
@@ -17,10 +18,11 @@
             //MultiDimentionalArray multiDimentionalArray = new MultiDimentionalArray();
             //multiDimentionalArray.Array2D();
 
-            JaggedArrays jaggedArrays = new JaggedArrays();
-            jaggedArrays.JaggedArrayExample2D();
+            //JaggedArrays jaggedArrays = new JaggedArrays();
+            //jaggedArrays.JaggedArrayExample2D();
 
-
+            MatrixInSpiralOrder matrixInSpiralOrder = new MatrixInSpiralOrder();
+            matrixInSpiralOrder.PrintMatrixInSprialOrder();
             SwitchConsoleStatements();
 
             int[] arr;
