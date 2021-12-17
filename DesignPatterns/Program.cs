@@ -1,10 +1,13 @@
 ﻿namespace DesignPatterns
 {
     using System;
-    using DesignPatterns.Algorithms.Challenge;
-    using DesignPatterns.Algorithms.HacherRank;
-    using DesignPatterns.CSharpFeatures;
-    using DesignPatterns.ProblemSolving;
+    //using DesignPatterns.Algorithms.Challenge;
+    //using DesignPatterns.Algorithms.HacherRank;
+    //using DesignPatterns.CSharpFeatures;
+    //using DesignPatterns.ProblemSolving;
+    using global::DesignPatterns.Algorithms.Challenge;
+    using global::DesignPatterns.Algorithms.HacherRank;
+    using global::DesignPatterns.ProblemSolving;
 
     // https://refactoring.guru/design-patterns/factory-method
     // NAME OF EXTENTION IS SUPERCHARGER.
